@@ -1,0 +1,8 @@
+https://code.visualstudio.com/docs/python/python-tutorial
+	First install Visual Studio Code
+	Install the Python Extension
+	Install Anaconda package contains Python and Data Science libraries
+
+If you face execution problem,  https://github.com/ContinuumIO/anaconda-issues/issues/2533
+	I have found the solution for using Anaconda/conda in PowerShell/CMD. we can use it by using this command :
+	cmd "/K" C:\ProgramData\Anaconda3\Scripts\activate.bat C:\ProgramData\Anaconda3
